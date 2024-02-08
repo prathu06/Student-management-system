@@ -1,0 +1,17 @@
+*{font-size:40px;}
+.nav{background-color:black;}
+.nav a{color:white;text-decoration:none;margin:5%;}
+.nav a:hover{
+color:yellow;
+}
+.btn:hover{
+background-color:yellow;
+}
+
+h1{background-color:black;color:white;width:40%;border-radius:10px;}
+body{
+height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ background-image:url("images.jpeg");}
